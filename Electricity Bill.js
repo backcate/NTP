@@ -1,3 +1,4 @@
+// 4-------------- Electricity Bill
 let units = 250;
 let bill = 0;
 

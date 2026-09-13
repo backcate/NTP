@@ -1,3 +1,4 @@
+// 2-------------- Ride Fare Calculator
 let distance = 8;
 let fare = 0;
 
